@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Toolbar Search</string>
+
+    <!--General-->
+    <string name="search_text">Search</string>
+
+    <!--MainActivity-->
+    <string name="main_activity_title">Toolbar Search App</string>
+</resources>

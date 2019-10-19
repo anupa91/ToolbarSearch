@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activities.SignedSVOListActivity">
+
+    <item
+        android:id="@+id/menu_activity_main_search_item_search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/search_text"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="always|collapseActionView" />
+
+</menu>
